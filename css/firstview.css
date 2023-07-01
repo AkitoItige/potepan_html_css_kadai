@@ -19,7 +19,7 @@ a {
 
 /* ファーストビュー */
 .first-view {
-    background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+    background-image: url(../image/first-view-img.webp);
     background-size: cover;
     background-position: center;
     padding-top: 100px;
